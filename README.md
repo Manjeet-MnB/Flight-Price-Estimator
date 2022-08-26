@@ -16,7 +16,7 @@
 <li> Webpage & deployment :  Created a webform that takes all the necessary inputs from user and shows output.
                                 After that I have deployed project on heroku and Microsoft Azure</li></pre>
 
-## Deployment Links
+
 
 
 
@@ -24,6 +24,7 @@
 
 
 ## UserInterface
+![Capture](https://user-images.githubusercontent.com/71639295/186835693-27507340-346c-4623-aa8a-039d8d15606a.JPG)
 
 
 ## Technologies Used
@@ -34,9 +35,9 @@
 4. Html
 5. Css
 6. Pandas, Numpy 
-7. Database 
-8. Hosting
-9. Docker 
+
+
+
 
 </pre>
 
